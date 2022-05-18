@@ -22,15 +22,14 @@ disidencias de género a través del mecanismo que establezca la ley.
 El Estado promoverá la integración paritaria en sus instituciones y en todos los
 espacios públicos y privados.
 
-2.- Artículo 3°.- Corresponderá al Estado, en sus diferentes ámbitos y funciones, garantizar la
+**2.- Artículo 3°.-** Corresponderá al Estado, en sus diferentes ámbitos y funciones, garantizar la
 participación democrática e incidencia política de todas las personas, especialmente la de los
 grupos históricamente excluidos y de especial protección.
 El Estado deberá garantizar la inclusión de estos grupos en las políticas públicas y en
 el proceso de formación de las leyes, mediante mecanismos de participación popular y
 deliberación política, asegurando medidas afirmativas que posibiliten su participación efectiva.
 
-
-3.- Artículo X.- Los poderes públicos adoptarán las medidas necesarias para adecuar e impulsar
+**3.- Artículo X.-** Los poderes públicos adoptarán las medidas necesarias para adecuar e impulsar
 la legislación, instituciones, marcos normativos y prestación de servicios, con el fin de alcanzar
 la igualdad sustantiva y la paridad. Con ese objetivo, el Poder Ejecutivo, el Poder Legislativo y
 los Sistemas de Justicia, así como los órganos de la Administración del Estado y los órganos
@@ -40,18 +39,18 @@ La política fiscal y el diseño de los presupuestos públicos se adecuarán al
 cumplimiento de un enfoque transversal de igualdad sustantiva de género en las políticas
 públicas.
 
-4.- Artículo 3° bis.- La ley deberá establecer las medidas afirmativas necesarias para garantizar
+**4.- Artículo 3° bis.-** La ley deberá establecer las medidas afirmativas necesarias para garantizar
 la participación y representación política de las personas en situación de discapacidad.
 
 ## CAPÍTULO DEL ESTADO PLURINACIONAL Y LIBRE DETERMINACIÓN DE LOS PUEBLOS
 
-5.- Artículo 4.- Chile es un Estado Plurinacional e Intercultural que reconoce la coexistencia de
+**5.- Artículo 4.-** Chile es un Estado Plurinacional e Intercultural que reconoce la coexistencia de
 diversas naciones y pueblos en el marco de la unidad del Estado.
 Son pueblos y naciones indígenas preexistentes los Mapuche, Aymara, Rapa Nui,
 Lickanantay, Quechua, Colla, Diaguita, Chango, Kawashkar, Yaghan, Selk'nam y otros que
 puedan ser reconocidos en la forma que establezca la ley.
 
-6.- Artículo 5.- Los pueblos y naciones indígenas preexistentes y sus miembros, en virtud de su
+**6.- Artículo 5.-** Los pueblos y naciones indígenas preexistentes y sus miembros, en virtud de su
 libre determinación, tienen derecho al pleno ejercicio de sus derechos colectivos e individuales.
 En especial, tienen derecho a la autonomía y al autogobierno, a su propia cultura, a la identidad
 y cosmovisión, al patrimonio y la lengua, al reconocimiento de sus tierras, territorios, la
@@ -59,7 +58,6 @@ protección del territorio marítimo, de la naturaleza en su dimensión material
 especial vínculo que mantienen con estos, a la cooperación e integración, al reconocimiento de
 sus instituciones, jurisdicciones y autoridades propias o tradicionales y a participar plenamente,
 si así lo desean, en la vida política, económica, social y cultural del Estado.
-
 
 Es deber del Estado Plurinacional, respetar, garantizar y promover con participación
 de los pueblos y naciones indígenas, el ejercicio de la libre determinación y de los derechos
@@ -72,9 +70,7 @@ diálogo intercultural en el ejercicio de las funciones públicas, creando insti
 promoviendo políticas públicas que favorezcan el reconocimiento y comprensión de la diversidad
 étnica y cultural de los pueblos y naciones indígenas preexistentes al Estado.
 
-```
-§ DEL PODER LEGISLATIVO
-```
+# § DEL PODER LEGISLATIVO
 7.- Artículo 5º bis.- Del Poder Legislativo. El poder legislativo se compone del Congreso de
 Diputadas y Diputados y la Cámara de las Regiones.
 
@@ -118,9 +114,7 @@ estas comisiones estará obligada a comparecer y a suministrar los antecedentes 
 informaciones que se le soliciten. No obstante, una misma comisión investigadora no podrá citar
 más de tres veces a la misma persona, sin previo acuerdo de la mayoría de sus integrantes.
 
-```
-De la Cámara de las Regiones
-```
+## De la Cámara de las Regiones
 11.- Artículo 9°.- La Cámara de las Regiones es un órgano deliberativo, paritario y plurinacional
 de representación regional encargado de concurrir a la formación de las leyes de acuerdo regional
 y de ejercer las demás facultades encomendadas por esta Constitución.
@@ -198,10 +192,8 @@ tribunal competente, tanto para la aplicación de la pena señalada al delito, s
 para hacer efectiva la responsabilidad civil por los daños y perjuicios causados al Estado o a
 particulares.
 
-```
-§ De las sesiones conjuntas del Congreso de Diputadas y Diputados y de la Cámara de las
+# § De las sesiones conjuntas del Congreso de Diputadas y Diputados y de la Cámara de las
 Regiones
-```
 15.- Artículo 12.- El Congreso de Diputadas y Diputados y la Cámara de las Regiones se reunirán
 en sesión conjunta para tomar el juramento o promesa de la Presidenta o Presidente de la
 República al momento de asumir el cargo, para recibir la cuenta pública anual y para inaugurar
@@ -320,9 +312,7 @@ cuando les afecte una enfermedad grave, debidamente acreditada, que les impida d
 y así lo califique el tribunal que realice el control de constitucionalidad.
 
 
-```
-De la legislación y la potestad reglamentaria
-```
+## De la legislación y la potestad reglamentaria
 26.- Artículo 22.- Sólo en virtud de una ley se puede:
 a. Crear, modificar y suprimir tributos de cualquier clase o naturaleza y los beneficios
 tributarios aplicables a éstos, determinar su progresión, exenciones y proporcionalidad, sin
@@ -492,9 +482,7 @@ La Contraloría General de la República deberá tomar razón de las leyes regio
 dictadas de conformidad con este artículo, debiendo rechazarlas cuando ellas excedan o
 contravengan la autorización referida.
 
-```
-Del procedimiento legislativo
-```
+## Del procedimiento legislativo
 34.- Artículo 29.- Las leyes pueden iniciarse por mensaje de la Presidenta o Presidente de la
 República o por moción de no menos del diez por ciento ni más del quince por ciento de las
 diputadas y diputados o representantes regionales. Adicionalmente, podrán tener su origen en
@@ -819,9 +807,7 @@ personalmente a las sesiones especiales que convoque el Congreso o la Cámara pa
 sobre asuntos que, perteneciendo al ámbito de atribuciones de las correspondientes secretarías de
 Estado, acuerden tratar.
 
-```
-Del Sistema Electoral
-```
+## Del Sistema Electoral
 62 .- Artículo 54.- Para las elecciones populares, la ley creará un sistema electoral conforme a
 los principios de igualdad sustantiva, paridad, alternabilidad de género y los demás contemplados
 en esta Constitución y las leyes. Dicho sistema deberá garantizar que los órganos colegiados
@@ -852,9 +838,7 @@ determinará su organización y funcionamiento.
 66 .- Artículo 58.- Las personas extranjeras avecindadas en Chile por, al menos cinco años,
 podrán ejercer el derecho a sufragio en los casos y formas que determine la Constitución y la ley.
 
-```
-De la elección de escaños reservados
-```
+## De la elección de escaños reservados
 67 .- Artículo 59.- Se establecerán escaños reservados para los pueblos y naciones indígenas en
 los órganos colegiados de representación popular a nivel nacional, regional y local, cuando
 corresponda y en proporción a la población indígena dentro del territorio electoral respectivo,
@@ -894,9 +878,7 @@ sus derechos políticos.
 La ley arbitrará los medios para incentivar la participación de las personas de las
 diversidades y disidencias sexuales y de género en los procesos electorales.
 
-```
 *********
-```
 71 .- Artículo 1.- Con la finalidad de garantizar la integridad pública y erradicar la corrupción en
 todas sus formas, los órganos competentes en la materia deberán coordinar su actuar a través de
 la instancia o mecanismos que correspondan para el cumplimiento de estos fines, en la forma que
@@ -1239,11 +1221,9 @@ tribunales de justicia tanto en su mérito como en su forma.
 Las requisiciones que se practiquen darán lugar a indemnizaciones en conformidad a
 la ley.
 
-```
 *********
 CAPÍTULO (COM 2)
 PRINCIPIOS CONSTITUCIONALES
-```
 101 .- Artículo 1.- Estado. Chile es un Estado social y democrático de derecho. Es
 plurinacional, intercultural y ecológico.
 Se constituye como una República solidaria, su democracia es paritaria y reconoce
@@ -1394,9 +1374,7 @@ El Estado reconoce los símbolos y emblemas de los distintos pueblos indígenas.
 se conducirán de conformidad a los principios de sostenibilidad y responsabilidad fiscal, los que
 guiarán el actuar del Estado en todas sus instituciones y en todos sus niveles.
 
-```
 *********
-```
 
 **“§ De la democracia participativa y sus características**
 119 .- Artículo 1.- Democracia Participativa. La ciudadanía tiene el derecho a participar de
@@ -1418,9 +1396,7 @@ esta Constitución y que sean distintos al sufragio, buscando que su uso promuev
 participación posible en dichos procesos, al igual que la más amplia información, transparencia,
 seguridad y accesibilidad del proceso para todas las personas sin distinción.
 
-```
-§ De los mecanismos de democracia directa y participación popular
-```
+# § De los mecanismos de democracia directa y participación popular
 122 .- Artículo 8.- Iniciativa popular de ley. Un grupo ciudadanos habilitados para sufragar,
 equivalente al tres por ciento del último padrón electoral, podrá presentar una iniciativa popular
 de ley para su tramitación legislativa.
@@ -1490,9 +1466,7 @@ parte del Estado de Chile y todos los demás derechos que la Constitución y las
 estatuto de nacionalidad.
 
 
-```
-“§ De la ciudadanía”
-```
+## “§ De la ciudadanía”
 129 .- Artículo 20.- Ciudadanía. Todas las personas que tengan la nacionalidad chilena serán
 ciudadanas y ciudadanos de Chile. Asimismo, serán ciudadanas y ciudadanos las personas
 extranjeras avecindadas en Chile por al menos cinco años.
@@ -1543,9 +1517,7 @@ La ley establecerá medidas para la recuperación de la nacionalidad chilena en 
 de quienes perdieron o tuvieron que renunciar a ella como consecuencia del exilio. Este derecho
 también se reconocerá a hijas e hijos de dichas personas.
 
-```
 *********
-```
 136 .- Artículo 1.- Derechos de las personas mayores. Las personas mayores son titulares y
 plenos sujetos de derecho. Tienen derecho a envejecer con dignidad y a ejercer todos los derechos
 consagrados en esta Constitución y en los tratados internacionales de derechos humanos
@@ -1632,13 +1604,9 @@ efectiva de los derechos de estos. El Estado asegurará por medio de este sistem
 amenaza o vulneración de derechos, existan mecanismos para su restitución, sanción y
 reparación.
 
-```
 *********
-```
-```
-CAPÍTULO (COM 3)
+## CAPÍTULO (COM 3)
 ESTADO REGIONAL
-```
 142 .- Artículo 1.- Del Estado Regional. Chile es un Estado Regional, plurinacional e
 intercultural conformado por entidades territoriales autónomas, en un marco de equidad y
 solidaridad entre todas ellas, preservando la unidad e integridad del Estado.
@@ -2277,9 +2245,7 @@ San Félix y San Ambrosio, así como también el territorio marítimo adyacente 
 y administración de este territorio se regirá por los estatutos especiales que establezcan las leyes
 respectivas.
 
-```
 *********
-```
 198 .- Artículo 1.- De los tributos. Todas las personas y entidades deberán contribuir al
 sostenimiento de los gastos públicos mediante el pago de los impuestos, las tasas y las
 contribuciones que autorice la ley.
@@ -2601,11 +2567,9 @@ vejez e invalidez.
 Los Cuerpos de Bomberos de Chile se sujetarán en todas sus actuaciones a los
 principios de probidad, transparencia y rendición de cuentas.
 
-```
 *********
 CAPÍTULO (COM 4)
 DERECHOS FUNDAMENTALES
-```
 238 .- Artículo 1.- Sobre los Derechos Fundamentales. Los derechos fundamentales son
 inherentes a la persona humana, universales, inalienables, indivisibles e interdependientes.
 El pleno ejercicio de estos derechos es esencial para la vida digna de las personas y
@@ -2665,9 +2629,7 @@ reinserción social de las personas condenadas, serán desarrolladas por los org
 que señale esta Constitución y la ley, en forma coordinada y con irrestricto respeto a los derechos
 humanos.
 
-```
-Libertad personal ambulatoria
-```
+## Libertad personal ambulatoria
 246 .- Artículo 10.- Ninguna persona puede ser privado de su libertad arbitrariamente ni ésta ser
 restringida sino en los casos y en la forma determinados por la Constitución y las leyes.
 Ninguna persona puede ser arrestada o detenida sino por orden judicial, salvo que
@@ -2729,9 +2691,7 @@ Toda forma de documentación y comunicación privada es inviolable, incluyendo s
 metadatos. La interceptación, captura, apertura, registro o revisión sólo se podrá realizar con
 orden judicial previa dictada en la forma y para los casos específicos que determine la ley.
 
-```
-Derechos sexuales y reproductivos
-```
+## Derechos sexuales y reproductivos
 253 .- Artículo 16.- Todas las personas son titulares de derechos sexuales y derechos
 reproductivos. Estos comprenden, entre otros, el derecho a decidir de forma libre, autónoma e
 informada sobre el propio cuerpo, sobre el ejercicio de la sexualidad, la reproducción, el placer
@@ -2785,9 +2745,7 @@ a utilizar los recursos que tradicionalmente han usado u ocupado, que se encuent
 territorios y sean indispensables para su existencia colectiva.
 
 
-```
-Derecho a la vida y a la integridad física y psíquica
-```
+## Derecho a la vida y a la integridad física y psíquica
 258 .- Artículo 23.- Derecho a la vida. Toda persona tiene derecho a la vida. Ninguna persona
 podrá ser condenada a muerte ni ejecutada.
 
@@ -2817,9 +2775,7 @@ Las reuniones en lugares de acceso público sólo podrán restringirse en confor
 a la ley.
 
 
-```
-Libertad de asociación
-```
+## Libertad de asociación
 264 .- Artículo 45.- Derecho de asociación. Todas las personas tienen derecho a asociarse, sin
 permiso previo.
 El derecho de asociación comprende la protección de la autonomía de las
@@ -2837,9 +2793,7 @@ mediante los instrumentos correspondientes, su naturaleza y finalidades. Las coo
 agruparse en federaciones, confederaciones, o en otras formas de organización que determine la
 ley.
 
-```
-Derechos de las personas chilenas residentes en el extranjero
-```
+## Derechos de las personas chilenas residentes en el extranjero
 266 .- Artículo 47.- Derechos de las personas chilenas en el exterior. Las personas chilenas
 que se encuentren en el exterior forman parte de la comunidad política del país.
 Se garantiza el derecho a votar en las elecciones de carácter nacional, presidenciales,
@@ -2855,9 +2809,7 @@ La ley regulará los plazos y la forma en que la autoridad deberá dar respuesta
 solicitado, además de la manera en que se garantizará el principio de plurilingüismo en el
 ejercicio de este derecho.
 
-```
-*********
-```
+## *********
 268 .- Artículo 1.- Las víctimas de graves violaciones a los derechos humanos tienen derecho a
 la reparación integral.
 
@@ -3308,12 +3260,8 @@ Todas las personas tienen derecho a acceder a la información ambiental que cons
 en poder o custodia del Estado. Los particulares deberán entregar la información ambiental
 relacionada con su actividad, en los términos que establezca la ley.
 
-```
 *********
-```
-```
 “§ Estatuto constitucional de las aguas
-```
 309 .- Artículo 1.- El Estado debe proteger las aguas, en todos sus estados y fases, y su ciclo
 hidrológico. El agua es esencial para la vida y el ejercicio de los derechos humanos y de la
 Naturaleza.
@@ -3400,9 +3348,7 @@ La infraestructura energética es de interés público.
 El Estado fomentará y protegerá las empresas cooperativas de energía y el
 autoconsumo.
 
-```
-§ Estatuto constitucional de los minerales
-```
+# § Estatuto constitucional de los minerales
 324 .- Artículo 22.- El Estado tiene el dominio absoluto, exclusivo, inalienable e imprescriptible
 de todas las minas y las sustancias minerales, metálicas, no metálicas, y los depósitos de
 sustancias fósiles e hidrocarburos existentes en el territorio nacional, sin perjuicio de la propiedad
@@ -3483,9 +3429,7 @@ vida, en la forma que determine la ley.
 preservación, conservación y cuidados requeridos respecto al medio ambiente y la Naturaleza, y
 que permita formar conciencia ecológica.
 
-```
 *********
-```
 
 ## CAPÍTULO (COM 6) SISTEMAS DE JUSTICIA
 
@@ -3527,9 +3471,7 @@ Las juezas y jueces no podrán militar en partidos políticos.
 suspendidos, trasladados o removidos sino conforme a las causales y procedimientos establecidos
 por la Constitución y las leyes.
 
-```
-§ Principios generales
-```
+# § Principios generales
 343 .- Artículo 5.- Derecho de acceso a la justicia. La Constitución garantiza el pleno acceso a
 la justicia a todas las personas y colectivos. Es deber del Estado remover los obstáculos sociales,
 culturales y económicos que impidan o limiten la posibilidad de acudir a los órganos
@@ -3615,9 +3557,7 @@ de resolución de conflictos.
 ## *********
 
 
-```
-“§ De los Tribunales del Sistema Nacional de Justicia
-```
+## “§ De los Tribunales del Sistema Nacional de Justicia
 355 .- Artículo 1.- Principio de unidad jurisdiccional. Los tribunales de justicia se estructuran
 conforme al principio de unidad jurisdiccional como base de su organización y funcionamiento,
 estando sujetos al mismo estatuto jurídico y principios.
@@ -3708,9 +3648,7 @@ La ley establecerá un procedimiento unificado, simple y expedito para conocer y
 resolver tales asuntos.
 
 
-```
-§ Sistema penitenciario
-```
+# § Sistema penitenciario
 368 .- Artículo 16.- Establecimientos penitenciarios. Sólo el Estado puede ejecutar el
 cumplimiento de penas y medidas privativas de libertad, a través de instituciones públicas
 especialmente establecidas para estos fines.
@@ -3741,9 +3679,7 @@ protección de los derechos y beneficios de los internos en los establecimientos
 demás que señale la ley.
 
 
-```
-§ Justicia Vecinal
-```
+# § Justicia Vecinal
 371 .- Artículo 19.- De la justicia vecinal y los juzgados vecinales. La justicia vecinal se
 compone por los juzgados vecinales y los centros de justicia vecinal.
 En cada comuna del país que sea asiento de una municipalidad habrá, a lo menos, un
@@ -3784,9 +3720,7 @@ Suprema conocerá y resolverá de las impugnaciones deducidas en contra de la de
 jurisdicción indígena, en sala especializada y asistida por una consejería técnica integrada por
 expertos en su cultura y derecho propio, en la forma que establezca la ley.
 
-```
-§ Consejo de la Justicia
-```
+# § Consejo de la Justicia
 376 .- Artículo 27.- Consejo de la Justicia. El Consejo de la Justicia es un órgano autónomo,
 técnico, paritario y plurinacional, con personalidad jurídica y patrimonio propio, cuya finalidad
 es fortalecer la independencia judicial. Está encargado del nombramiento, gobierno, gestión,
@@ -3890,9 +3824,7 @@ Las decisiones adoptadas conforme a los incisos anteriores, no podrán ser revis
 ni impugnadas ante otros órganos del Sistema Nacional de Justicia.
 *********
 
-```
-§ Justicia Ambiental
-```
+# § Justicia Ambiental
 384 .- Artículo 1.- Tribunales ambientales. Los Tribunales Ambientales conocerán y resolverán
 sobre la legalidad de los actos administrativos en materia ambiental, de la acción de tutela de
 derechos fundamentales ambientales y de los derechos de la Naturaleza, la reparación por daño
@@ -3913,9 +3845,7 @@ administrativa para acceder a la justicia ambiental.
 se rigen por el principio de paridad. Se promueve la implementación de medidas de acción
 afirmativa, asegurando que, al menos, el cincuenta por ciento de su integración sean mujeres.
 
-```
-Capítulo.- Ministerio Público
-```
+## Capítulo.- Ministerio Público
 386 .- Artículo 3.- Del Ministerio Público. El Ministerio Público es un organismo autónomo y
 jerarquizado, con personalidad jurídica y patrimonio propio que tiene como función dirigir en
 forma exclusiva la investigación de los hechos que pudiesen ser constitutivos de delito, los que
@@ -4026,9 +3956,7 @@ sus miembros en ejercicio.
 La remoción de los fiscales regionales también podrá ser solicitada por el o la Fiscal
 Nacional.
 
-```
-§ Derecho a un proceso con las debidas garantías
-```
+# § Derecho a un proceso con las debidas garantías
 396 .- Artículo 13.- Derecho a un proceso con las debidas garantías. Toda persona tiene
 derecho a un proceso razonable y justo, en que se salvaguarden las garantías que se señalan en
 esta Constitución, sin perjuicio de las que se establezcan en la ley y en los tratados internacionales
@@ -4091,9 +4019,7 @@ Ninguna ley podrá establecer penas sin que la conducta que se sanciona esté de
 de manera clara y precisa en ella.
 Lo establecido en este artículo también será aplicable a las medidas de seguridad.
 
-```
-§ Derecho a asesoría jurídica gratuita
-```
+# § Derecho a asesoría jurídica gratuita
 401 .- Artículo 17.- Derecho a la asesoría jurídica gratuita. Toda persona tiene derecho a la
 asesoría jurídica gratuita en los casos y en la forma que establezca la Constitución y la ley.
 El Estado asegura la asesoría jurídica gratuita e integra por parte de abogadas y
@@ -4114,9 +4040,7 @@ La ley determinará la organización, áreas de atención, composición y planta
 personal del Servicio Integral de Acceso a la Justicia, considerando un despliegue
 territorialmente desconcentrado.
 
-```
-Capítulo.- Defensoría Penal Pública
-```
+## Capítulo.- Defensoría Penal Pública
 404 .- Artículo 20.- De la Defensoría Penal Pública. La Defensoría Penal Pública es un
 organismo autónomo, con personalidad jurídica y patrimonio propio, que tiene por función
 proporcionar defensa penal a los imputados por hechos que pudiesen ser constitutivos de delito,
@@ -4143,9 +4067,7 @@ integrantes del Congreso de Diputadas y Diputados y la Cámara de las Regiones e
 conjunta, a partir de una terna propuesta por la o el Presidente de la República, conforme al
 procedimiento que determine la ley.
 
-```
-Capítulo.- Defensoría del Pueblo.
-```
+## Capítulo.- Defensoría del Pueblo.
 407 .- Artículo 26.- De la Defensoría del Pueblo. Un organismo autónomo, con personalidad
 jurídica y patrimonio propio, denominada Defensoría del Pueblo, tendrá por finalidad la
 promoción y protección de los derechos humanos asegurados en esta Constitución, en los tratados
@@ -4216,9 +4138,7 @@ tratados internacionales ratificados por Chile que se encuentren vigentes, así 
 legislación nacional, velando por su interés superior. La ley determinará la organización,
 funciones, financiamiento y atribuciones de la Defensoría de los Derechos de la Niñez.
 
-```
-Capítulo.- Defensoría de la Naturaleza
-```
+## Capítulo.- Defensoría de la Naturaleza
 411 .- Artículo 30.- La Defensoría de la Naturaleza. Un organismo autónomo, con personalidad
 jurídica y patrimonio propio, denominada Defensoría de la Naturaleza, tendrá por finalidad la
 promoción y protección de los derechos de la naturaleza y de los derechos ambientales
@@ -4276,9 +4196,7 @@ especialmente respecto de la Política Nacional Hídrica, así también la organ
 estructura, funcionamiento, y demás funciones y competencias de la Autoridad Nacional, como
 de los organismos de cuenca.
 
-```
-Capítulo.- Banco Central.
-```
+## Capítulo.- Banco Central.
 416 .- Artículo 37.- Del Banco Central. El Banco Central es un órgano autónomo con
 personalidad jurídica y patrimonio propio, de carácter técnico, encargado de formular y conducir
 la política monetaria.
@@ -4355,9 +4273,7 @@ perjuicio de las demás inhabilidades que establezca la ley.
 Una vez que hayan cesado en sus cargos, los integrantes del Consejo tendrán la
 misma incompatibilidad por un periodo de doce meses.
 
-```
-Capítulo.- Contraloría General de la República.
-```
+## Capítulo.- Contraloría General de la República.
 424 .- Artículo 45.- De la Contraloría General de la República. La Contraloría General de la
 República es un órgano técnico, autónomo, con personalidad jurídica y patrimonio propio,
 encargada de velar por el cumplimiento del principio de probidad en la función pública, ejercer
@@ -4437,12 +4353,8 @@ autoridad competente, en que se exprese la ley o la parte del presupuesto que au
 Los pagos se efectuarán considerando, además, el orden cronológico establecido en ella y previa
 refrendación presupuestaria del documento que ordene el pago.
 
-```
-Capítulo.- Tribunales Electorales y Servicio Electoral.
-```
-```
-§ Servicio Electoral.
-```
+## Capítulo.- Tribunales Electorales y Servicio Electoral.
+## # § Servicio Electoral.
 430 .- Artículo 52.- Del Servicio Electoral. Un organismo autónomo, con personalidad jurídica
 y patrimonio propio, denominado Servicio Electoral, ejercerá la administración, supervigilancia
 y fiscalización de los procesos electorales y plebiscitarios, del cumplimiento de las normas sobre
@@ -4472,9 +4384,7 @@ manifiesta en el ejercicio de sus funciones. La Corte conocerá del asunto en pl
 convocado al efecto y, para acordar la remoción deberá reunir el voto conforme de la mayoría de
 sus juezas y jueces.
 
-```
-§ Tribunales Electorales
-```
+# § Tribunales Electorales
 431 .- Artículo 53.- Del Tribunal Calificador de Elecciones. El Tribunal Calificador de
 Elecciones conocerá del escrutinio general y de la calificación de las elecciones de las autoridades
 electas por votación popular a nivel nacional, resolverá las reclamaciones que se suscitaren y
@@ -4521,9 +4431,7 @@ regionales, plantas, remuneraciones y estatuto del personal.
 superintendencia directiva y correccional del Tribunal Calificador de Elecciones y de los
 tribunales electorales regionales corresponderá al Consejo de la Justicia.
 
-```
-Capítulo.- Servicio Civil.
-```
+## Capítulo.- Servicio Civil.
 434 .- Artículo 56. La Dirección del Servicio Civil. La Dirección del Servicio Civil será un
 organismo autónomo, con personalidad jurídica y patrimonio propio, encargado del
 fortalecimiento de la función pública y de los procedimientos de selección de cargos en la
@@ -4553,9 +4461,7 @@ la protección de las personas en su rol de consumidoras y usuarias de bienes y 
 contará con facultades interpretativas, fiscalizadoras, sancionadoras y las demás que le otorgue
 la ley.
 
-```
-Capítulo.- Justicia Constitucional.
-```
+## Capítulo.- Justicia Constitucional.
 436 .- Artículo 65.- De la justicia constitucional. La Corte Constitucional es un órgano
 autónomo, técnico y profesional, encargado de ejercer la justicia constitucional con la finalidad
 de garantizar la supremacía de la Constitución, de acuerdo a los principios de deferencia al órgano
@@ -4563,9 +4469,7 @@ legislativo, presunción de constitucionalidad de la ley y búsqueda de una inte
 con la Constitución. Sus resoluciones se fundarán únicamente en razones de derecho.
 
 
-```
-§ Corte Constitucional
-```
+# § Corte Constitucional
 437 .- Artículo 66.- Integración. Estará conformada por once integrantes, uno de los cuales será
 su presidenta o presidente elegido por sus pares y que ejercerá sus funciones durante dos años.
 Las juezas y jueces de la Corte Constitucional durarán nueve años en sus cargos, no
@@ -4689,9 +4593,7 @@ Cuando la Corte Constitucional declare la inconstitucionalidad de un precepto, l
 sentencia provocará su invalidación, excluyéndolo del ordenamiento jurídico a partir del día
 siguiente de su publicación en el Diario Oficial.
 
-```
-§ Acciones constitucionales de tutela.
-```
+# § Acciones constitucionales de tutela.
 443 .- Artículo 72.- Acción de tutela de derechos fundamentales. Toda persona que por causa
 de un acto u omisión sufra una amenaza, perturbación o privación en el legítimo ejercicio de sus
 derechos fundamentales, podrá concurrir por sí o por cualquiera a su nombre ante el tribunal de
@@ -4765,12 +4667,8 @@ siempre se podrá exigir en conformidad al artículo anterior, será imputada a 
 indemnización. La misma indemnización procederá por las actuaciones o decisiones
 administrativas derivadas del funcionamiento judicial que, con falta de servicio, generen daño.
 
-```
-Capítulo.- Reforma y Reemplazo de la Constitución.
-```
-```
+## Capítulo.- Reforma y Reemplazo de la Constitución.
 Título I. Reforma constitucional
-```
 447 .- Artículo 76.- Los proyectos de reforma a la Constitución podrán ser iniciados por mensaje
 presidencial, moción de diputadas y diputados o representantes regionales, o por iniciativa
 popular.
@@ -4814,9 +4712,7 @@ alternativa de modificación ganadora alcanza la mayoría en la votación respec
 (Inciso quinto) Es deber del Congreso y de los órganos del Estado descentralizados
 dar adecuada publicidad a la o las propuestas de reforma que se someterán a referéndum.
 
-```
-Título II. Procedimiento para elaborar una nueva Constitución.
-```
+## Título II. Procedimiento para elaborar una nueva Constitución.
 450 .- Artículo 81.- Procedimiento para el reemplazo de la Constitución. El reemplazo total
 de la Constitución sólo podrá realizarse a través de una Asamblea Constituyente convocada por
 medio de un referéndum.
@@ -4859,9 +4755,7 @@ Si la propuesta de Nueva Constitución fuera aprobada en el plebiscito, se proce
 a su promulgación y correspondiente publicación.
 
 
-```
-§ Derechos de personas privadas de libertad
-```
+# § Derechos de personas privadas de libertad
 453 .- Artículo 85.- De los derechos de las personas privadas de libertad y las obligaciones
 generales del Estado. Toda persona sometida a cualquier forma de privación de libertad no
 podrá sufrir limitaciones a otros derechos que aquellos estrictamente necesarios para la ejecución
@@ -4897,11 +4791,9 @@ del Pueblo, la Defensoría de la Naturaleza, el Servicio Electoral, la Corte Con
 Banco Central, se adoptarán por la mayoría de las y los integrantes del Congreso de Diputadas y
 Diputados y de la Cámara de las Regiones.
 
-```
 *********
 CAPÍTULO (COM 7)
 SISTEMAS DE CONOCIMIENTOS
-```
 458 .- Artículo 1.- Derecho a la comunicación social. Toda persona, individual o
 colectivamente, tiene derecho a producir información y a participar equitativamente en la
 comunicación social. Se reconoce el derecho a fundar y mantener medios de comunicación e
@@ -5010,10 +4902,8 @@ responsabilidad y con pleno respeto a la dignidad humana, a la sintiencia de los
 derechos de la naturaleza y los demás derechos establecidos en esta Constitución y en tratados
 internacionales de Derechos Humanos ratificados por Chile y que se encuentren vigentes.
 
-```
 *********
-```
-475 .- Artículo 1.- Derecho a participar y beneficiarse de los conocimientos. Toda persona,
+**475 .- Artículo 1.- Derecho a participar y beneficiarse de los conocimientos.** Toda persona,
 individual o colectivamente, tiene derecho a participar libremente de la creación, desarrollo,
 conservación e innovación de los diversos sistemas de conocimientos y a la transferencia de sus
 aplicaciones, así como a gozar de sus beneficios.
@@ -5080,9 +4970,7 @@ cualquiera sea el régimen jurídico y titularidad de dichos bienes.
 486 .- Artículo 20.- Difusión y educación sobre patrimonios. El Estado fomentará la difusión
 y educación sobre los patrimonios naturales y culturales, materiales e inmateriales.”
 
-```
 *********
-```
 487 .- Artículo 1.- Infraestructura y gestión de redes y servicios de conectividad. La
 infraestructura de telecomunicaciones es de interés público, independientemente de su régimen
 patrimonial.
