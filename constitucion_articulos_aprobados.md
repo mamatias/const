@@ -72,12 +72,12 @@ promoviendo políticas públicas que favorezcan el reconocimiento y comprensión
 
 ### § DEL PODER LEGISLATIVO
 
-7.- Artículo 5º bis.- Del Poder Legislativo. El poder legislativo se compone del Congreso de
+**7.- Artículo 5º bis.- Del Poder Legislativo**. El poder legislativo se compone del Congreso de
 Diputadas y Diputados y la Cámara de las Regiones.
 
 ### § Del Congreso de Diputadas y Diputados
 
-8.- Artículo 5° ter.- El Congreso de Diputadas y Diputados es un órgano deliberativo, paritario
+**8.- Artículo 5° ter.-** El Congreso de Diputadas y Diputados es un órgano deliberativo, paritario
 y plurinacional que representa al pueblo. Concurre a la formación de las leyes y ejerce las demás
 facultades encomendadas por la Constitución.
 El Congreso está integrado por un número no inferior a 155 miembros electos en
@@ -85,30 +85,32 @@ votación directa por distritos electorales. Una ley de acuerdo regional determi
 integrantes, los distritos electorales y la forma de su elección, atendiendo el criterio de
 proporcionalidad.
 
-9.- Artículo 7°.- Son atribuciones exclusivas del Congreso de Diputadas y Diputados:
-a) Fiscalizar los actos del Gobierno. El Congreso tendrá la facultad de solicitar
+**9.- Artículo 7°.-** Son atribuciones exclusivas del Congreso de Diputadas y Diputados:
+> a) Fiscalizar los actos del Gobierno. El Congreso tendrá la facultad de solicitar
 información relativa al contenido y fundamentos de los actos de gobierno;
-c) Declarar, cuando la Presidenta o Presidente presente la renuncia a su cargo, si los
+
+> c) Declarar, cuando la Presidenta o Presidente presente la renuncia a su cargo, si los
 motivos que la originan son o no fundados y, en consecuencia, admitirla o desecharla;
 
-
-d) Otorgar su acuerdo para que la Presidenta o Presidente de la República pueda
+> d) Otorgar su acuerdo para que la Presidenta o Presidente de la República pueda
 ausentarse del país por más de treinta días o a contar desde el tercer domingo de noviembre del
 año anterior a aquel en que deba cesar en el cargo el que esté en funciones, y
 e) Las otras que establezca la Constitución.
 
-10.- Artículo 8.- El Congreso de Diputadas y Diputados tendrá por función fiscalizar los actos
+**10.- Artículo 8.-** El Congreso de Diputadas y Diputados tendrá por función fiscalizar los actos
 del Gobierno. Para ejercer esta atribución puede:
-a) Adoptar acuerdos o sugerir observaciones, los que se transmitirán por escrito a la
+> a) Adoptar acuerdos o sugerir observaciones, los que se transmitirán por escrito a la
 o el Presidente de la República. Dentro de los treinta días contados desde su comunicación, la o
 el Presidente deberá dar respuesta fundada por medio de la o el Ministro de Estado que
 corresponda.
-b) Solicitar antecedentes a la o el Presidente de la República, con el patrocinio de un
+
+> b) Solicitar antecedentes a la o el Presidente de la República, con el patrocinio de un
 cuarto de sus miembros. La o el Presidente deberá contestar fundadamente por medio del
 Ministro o Ministra de Estado que corresponda dentro de los tres días desde su comunicación.
 En ningún caso estos actos afectarán la responsabilidad política de las y los Ministros
 de Estado.
-c) Crear comisiones especiales investigadoras a petición de a lo menos dos quintos
+
+> c) Crear comisiones especiales investigadoras a petición de a lo menos dos quintos
 de las diputadas y diputados en ejercicio, con el objeto de reunir informaciones relativas a
 determinados actos del Gobierno. Las comisiones investigadoras, a petición de un tercio de sus
 miembros, podrán despachar citaciones y solicitar antecedentes. Toda persona que sea citada por
@@ -117,13 +119,13 @@ informaciones que se le soliciten. No obstante, una misma comisión investigador
 más de tres veces a la misma persona, sin previo acuerdo de la mayoría de sus integrantes.
 
 ## De la Cámara de las Regiones
-11.- Artículo 9°.- La Cámara de las Regiones es un órgano deliberativo, paritario y plurinacional
+
+**11.- Artículo 9°.-** La Cámara de las Regiones es un órgano deliberativo, paritario y plurinacional
 de representación regional encargado de concurrir a la formación de las leyes de acuerdo regional
 y de ejercer las demás facultades encomendadas por esta Constitución.
 Sus integrantes se denominarán representantes regionales.
 
-
-12.- Artículo 11.- La ley determinará el número de representantes regionales a ser elegidas y
+**12.- Artículo 11.-** La ley determinará el número de representantes regionales a ser elegidas y
 elegidos por región, el que deberá ser el mismo para cada una y en ningún caso inferior a tres,
 asegurando que la integración final del órgano respete el principio de paridad.
 Las y los miembros de la Cámara de las Regiones se elegirán en votación popular
@@ -135,29 +137,32 @@ representa. También podrán ser especialmente convocadas y convocados al efecto
 La Cámara de las Regiones no podrá fiscalizar los actos del Gobierno ni de las
 entidades que de él dependan.
 
-13.- Artículo 11 bis.- Es atribución exclusiva del Congreso de las Diputadas y Diputados
+**13.- Artículo 11 bis.-** Es atribución exclusiva del Congreso de las Diputadas y Diputados
 declarar si han o no lugar las acusaciones que no menos de diez ni más de veinte de sus integrantes
 formulen en contra de:
-a) La Presidenta o Presidente de la República, por actos de su administración que
+> a) La Presidenta o Presidente de la República, por actos de su administración que
 hayan comprometido gravemente el honor o la seguridad de la Nación, o infringido abiertamente
 la Constitución o las leyes. Esta acusación podrá interponerse mientras la Presidenta o Presidente
 esté en funciones y en los seis meses siguientes a su expiración en el cargo. Durante este último
 tiempo no podrá ausentarse de la República sin acuerdo del Congreso de las Diputadas y
 Diputados;
-b) Las Ministras y Ministros de Estado, por haber comprometido gravemente el honor
+
+> b) Las Ministras y Ministros de Estado, por haber comprometido gravemente el honor
 o la seguridad de la Nación, por infringir la Constitución o las leyes o haber dejado éstas sin
 ejecución, y por los delitos de traición, concusión, malversación de fondos públicos y soborno;
-c) Las juezas y jueces de las Cortes de Apelaciones y la Corte Suprema, y de la o el
+
+> c) Las juezas y jueces de las Cortes de Apelaciones y la Corte Suprema, y de la o el
 Contralor General de la República, por notable abandono de sus deberes;
-d) Las y los generales o almirantes de las instituciones pertenecientes a las Fuerzas
+
+> d) Las y los generales o almirantes de las instituciones pertenecientes a las Fuerzas
 Armadas, del General Director de Carabineros de Chile y del Director General de la Policía de
 Investigaciones de Chile, por haber comprometido gravemente el honor o la seguridad de la
 Nación;
 
-
-e) Las y los gobernadores regionales y de la autoridad en los territorios especiales e
+> e) Las y los gobernadores regionales y de la autoridad en los territorios especiales e
 indígenas, por infracción de la Constitución y por los delitos de traición, sedición, malversación
 de fondos públicos y concusión.
+
 La acusación se tramitará en conformidad a la Ley de Organización, Funcionamiento
 y Procedimientos del Poder Legislativo.
 Las acusaciones referidas en las letras b), c), d) y e) podrán interponerse mientras la
@@ -174,7 +179,7 @@ Congreso de Diputadas y Diputados declare que ha lugar la acusación. La suspens
 la Cámara de las Regiones desestimare la acusación o si no se pronunciare dentro de los treinta
 días siguientes.
 
-14.- Artículo 11 ter.- Es atribución exclusiva de la Cámara de las Regiones conocer de las
+**14.- Artículo 11 ter.-** Es atribución exclusiva de la Cámara de las Regiones conocer de las
 acusaciones que el Congreso de Diputadas y Diputados entable con arreglo a lo establecido en el
 artículo 11 bis.
 La Cámara de las Regiones resolverá como jurado y se limitará a declarar si la o el
@@ -184,7 +189,6 @@ representantes regionales en ejercicio cuando se trate de una acusación en cont
 o Presidente de la República o de un gobernador regional, y por la mayoría de los representantes
 regionales en ejercicio en los demás casos.
 Por la declaración de culpabilidad queda la o el acusado destituido de su cargo.
-
 
 La persona destituida no podrá desempeñar ningún otro cargo de exclusiva confianza
 de la o el Presidente durante el tiempo que reste de su mandato o presentarse al cargo de elección
@@ -196,17 +200,17 @@ particulares.
 
 ### § De las sesiones conjuntas del Congreso de Diputadas y Diputados y de la Cámara de las Regiones
 
-15.- Artículo 12.- El Congreso de Diputadas y Diputados y la Cámara de las Regiones se reunirán
+**15.- Artículo 12.-** El Congreso de Diputadas y Diputados y la Cámara de las Regiones se reunirán
 en sesión conjunta para tomar el juramento o promesa de la Presidenta o Presidente de la
 República al momento de asumir el cargo, para recibir la cuenta pública anual y para inaugurar
 el año legislativo.
 
-16.- Artículo 12 bis.- El Congreso de Diputadas y Diputados y la Cámara de las Regiones se
+**16.- Artículo 12 bis.-** El Congreso de Diputadas y Diputados y la Cámara de las Regiones se
 reunirán en sesión conjunta para decidir los nombramientos que conforme a esta Constitución
 corresponda, garantizando un estricto escrutinio de la idoneidad de las y los candidatos para el
 cargo correspondiente.
 
-17.- Artículo 13.- Para ser elegida diputada, diputado o representante regional se requiere ser
+**17.- Artículo 13.-** Para ser elegida diputada, diputado o representante regional se requiere ser
 ciudadana o ciudadano con derecho a sufragio, haber cumplido dieciocho años de edad al día de
 la elección y tener avecindamiento en el territorio correspondiente durante un plazo no inferior a
 dos años, en el caso de las diputadas o diputados, y de cuatro años en el caso de las y los
@@ -214,8 +218,7 @@ representantes regionales, contados hacia atrás desde el día de la elección.
 Se entenderá que una diputada, diputado o representante regional tiene su residencia
 en el territorio correspondiente mientras ejerza su cargo.
 
-18.- Artículo 14.- No pueden ser candidatos a diputadas o diputados ni a representante regional:
-
+**18.- Artículo 14.-** No pueden ser candidatos a diputadas o diputados ni a representante regional:
 
 1. La Presidenta o Presidente de la República o quien lo sustituya en el ejercicio de
 la Presidencia al tiempo de la elección;
@@ -248,16 +251,15 @@ Son también incompatibles con las funciones de directores o consejeros, aun cua
 sean ad honorem, de entidades fiscales autónomas, semifiscales, y de empresas estatales o en las
 que el Estado tenga participación por aporte de capital.
 
-
 Por el solo hecho de su proclamación por el Tribunal Calificador de Elecciones, la
 diputada o diputado o representante regional cesará en el otro cargo, empleo, función o comisión
 incompatible que desempeñe.
 
-20.- Artículo 16.- Las diputadas y diputados y las y los representantes regionales podrán ser
+**20.- Artículo 16.-** Las diputadas y diputados y las y los representantes regionales podrán ser
 reelegidos sucesivamente en el cargo hasta por un período. Para estos efectos se entenderá que
 han ejercido su cargo durante un período cuando han cumplido más de la mitad de su mandato.
 
-21.- Artículo 17.- El Congreso de Diputadas y Diputados y la Cámara de las Regiones se
+**21.- Artículo 17.-** El Congreso de Diputadas y Diputados y la Cámara de las Regiones se
 renovarán en su totalidad cada cuatro años.
 La ley establecerá sus reglas de organización, funcionamiento y tramitación, la que
 podrá ser complementada con los reglamentos de funcionamiento que estos órganos dicten.
@@ -265,7 +267,7 @@ El Congreso de Diputadas y Diputados y la Cámara de las Regiones tomarán sus
 decisiones por la mayoría de sus miembros presentes, salvo que esta Constitución disponga un
 quorum diferente.
 
-22.- Artículo 18.- El Congreso de Diputadas y Diputados no podrá entrar en sesión ni adoptar
+**22.- Artículo 18.-** El Congreso de Diputadas y Diputados no podrá entrar en sesión ni adoptar
 acuerdos sin la concurrencia de la tercera parte de sus miembros en ejercicio.
 
 23.- Artículo 19.- La o el reemplazante deberá reunir los requisitos establecidos por esta
